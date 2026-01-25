@@ -1,6 +1,7 @@
 # __FAKE-PROOF-PAYPAL__
 
-![Hangar Views](https://img.shields.io/hangar/views/React)
+[![HitCount](https://hits.dwyl.com/2dxKIRA/FakePaypalProof.svg)](https://hits.dwyl.com/2dxKIRA/FakePaypalProof)
+
 
 dm on discord for the open source 2dx.graph 
 
