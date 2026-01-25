@@ -1,6 +1,6 @@
 # __FAKE-PROOF-PAYPAL__
 
-![Views](https://img.shields.io/badge/view-67%20vue-green)
+![Views](https://img.shields.io/badge/views-67%20-green)
 
 
 
