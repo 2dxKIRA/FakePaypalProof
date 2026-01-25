@@ -1,5 +1,3 @@
-# __FAKE-PROOF-PAYPAL__
-
 <!-- markdownlint-disable MD033 -->
 <p align="center">
   <img
