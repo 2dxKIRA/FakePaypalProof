@@ -1,7 +1,5 @@
 # __FAKE-PROOF-PAYPAL__
 
-https://views-counter.vercel.app/badge?pageId=AnonSecLab&leftColor=0D0D0D&rightColor=66CCFF&type=total&label=Views&style=none
-
 dm on discord for the open source 2dx.graph 
 
 # 🔥 UTILISATION
