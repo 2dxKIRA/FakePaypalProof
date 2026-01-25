@@ -1,4 +1,9 @@
 # __FAKE-PROOF-PAYPAL__
+
+# 🔥 UTILISATION
+
+Vous avez juste a lancer le main.py ! 
+
 # ⚠️ DISCLAIMER
 
 Ce projet est fourni **uniquement à des fins éducatives et de démonstration**.  
