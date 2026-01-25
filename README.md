@@ -2,11 +2,11 @@
 
 dm on discord for the open source 2dx.graph 
 
-tuto : https://www.youtube.com/watch?v=gapUox3OJf4
-
 # 🔥 UTILISATION
 
-Vous avez juste a lancer le main.py ! 
+Vous avez juste a lancer le main.py ( les autre fichier doivent etre present ) ! 
+
+( tuto : https://www.youtube.com/watch?v=gapUox3OJf4 )
 
 # ⚠️ DISCLAIMER
 
