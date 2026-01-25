@@ -46,6 +46,6 @@ Projet créé par **2dx**
 
 ## 👀 Preview
 
-https://cdn.discordapp.com/attachments/1459251581781278821/1465040882280436008/preview.png?ex=6977a925&is=697657a5&hm=2e056eca4a41226bb6c58ff40e697bdd31df7f0c50603264b03aaa4650305e63&
+![Preview](preview.png)
 
 
