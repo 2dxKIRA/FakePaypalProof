@@ -19,7 +19,7 @@
     alt="Version"
   />
   <img
-    src="https://img.shields.io/badge/download-14-red"
+    src="https://img.shields.io/badge/download-21-red"
     alt="Downloads"
   />
 </p>
