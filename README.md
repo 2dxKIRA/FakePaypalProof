@@ -31,7 +31,7 @@
 
 # 🔥 UTILISATION
 
-Vous avez juste a lancer le KiraMain.py ( les autre fichier doivent etre present ) ! 
+Vous avez juste à lancer le KiraMain.py ( les autre fichier doivent etre present ) ! 
 
 ( tuto : https://www.youtube.com/watch?v=gapUox3OJf4 )
 
