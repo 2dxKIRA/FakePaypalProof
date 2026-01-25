@@ -1,5 +1,7 @@
 # __FAKE-PROOF-PAYPAL__
 
+dm on discord for the open source 2dx.graph 
+
 # 🔥 UTILISATION
 
 Vous avez juste a lancer le main.py ! 
