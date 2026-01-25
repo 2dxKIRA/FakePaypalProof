@@ -29,7 +29,7 @@
 #     - ⚠️ Ne pas toucher ni modifier le code ci-dessous. En cas d'erreur, veuillez contacter le propriétaire, mais en aucun cas vous ne devez toucher au code. ⚠️
 #     - ⚠️ Ne revendez pas ce tool, ne le créditez pas au vôtre. ⚠️
 
-# jai pris du temps a fair donc copiez pas svp juste utiliser le tool cest tout pls 🤕
+# j'ai pris du temps a fair donc copiez pas svp juste utiliser le tool cest tout pls 🤕
 
 import customtkinter as ctk
 from PIL import Image, ImageDraw, ImageFont, ImageTk
