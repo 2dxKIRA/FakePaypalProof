@@ -1,6 +1,6 @@
 # __FAKE-PROOF-PAYPAL__
 
-![Repo Views](https://img.shields.io/endpoint?url=https://hits.dwyl.com/2dxKIRA/FakePaypalProof.json)
+![Views](https://img.shields.io/badge/view-67%20vue-green)
 
 
 
