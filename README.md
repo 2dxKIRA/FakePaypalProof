@@ -48,4 +48,4 @@ Projet créé par **2dx**
 
 ![Preview](preview.png)
 
-*dm discord pour l'open source : 2dx.graph*
+
