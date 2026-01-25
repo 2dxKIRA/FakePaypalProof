@@ -1,6 +1,7 @@
 # __FAKE-PROOF-PAYPAL__
 
-[![HitCount](https://hits.dwyl.com/2dxKIRA/FakePaypalProof.svg)](https://hits.dwyl.com/2dxKIRA/FakePaypalProof)
+![Repo Views](https://img.shields.io/endpoint?url=https://hits.dwyl.com/2dxKIRA/FakePaypalProof.json)
+
 
 
 dm on discord for the open source 2dx.graph 
