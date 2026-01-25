@@ -1,6 +1,21 @@
 # __FAKE-PROOF-PAYPAL__
 
-# ![Views](https://img.shields.io/badge/views-67%20-green) ![Version](https://img.shields.io/badge/version-v2.1-blue) ![Downloads](https://img.shields.io/badge/download-14-red)
+<!-- markdownlint-disable MD033 -->
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/views-67%20-green"
+    alt="Views"
+  />
+  <img
+    src="https://img.shields.io/badge/version-v2.1-blue"
+    alt="Version"
+  />
+  <img
+    src="https://img.shields.io/badge/download-14-red"
+    alt="Downloads"
+  />
+</p>
+<!-- markdownlint-restore -->
 
 
 
