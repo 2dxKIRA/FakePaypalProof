@@ -46,6 +46,6 @@ Projet créé par **2dx**
 
 ## 👀 Preview
 
-![Preview](https://raw.githubusercontent.com/2dxKIRA/FakePaypalProof/refs/heads/main/preview.png)
+![Preview](https://cdn.discordapp.com/attachments/1427980513221677158/1465052961053868285/preview.png?ex=6977b465&is=697662e5&hm=52345caf8e2f9a8d43ddcbf82907198db3ad9491004aa580c874230c05006a33&)
 
 
