@@ -4,7 +4,7 @@
 
 
 
-dm on discord for the open source 2dx.graph 
+
 
 # 🔥 UTILISATION
 
@@ -24,3 +24,5 @@ Projet créé par **2dx**
 ## 👀 Preview
 
 ![Preview](preview.png)
+
+*dm discord pour l'open source : 2dx.graph*
