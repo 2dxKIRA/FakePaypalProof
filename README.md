@@ -8,3 +8,6 @@ Toute utilisation illégale ou frauduleuse relève **entièrement de la responsa
 Projet créé par **2dx**  
 👉 Rejoins le Discord : https://discord.gg/v5sdJTfAAW
 
+## 👀 Preview
+
+![Preview](preview.png)
