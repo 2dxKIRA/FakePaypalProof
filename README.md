@@ -1,5 +1,7 @@
 # __FAKE-PROOF-PAYPAL__
 
+![Hangar Views](https://img.shields.io/hangar/views/React)
+
 dm on discord for the open source 2dx.graph 
 
 # 🔥 UTILISATION
