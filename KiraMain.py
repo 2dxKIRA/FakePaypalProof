@@ -70,15 +70,20 @@ def installer_dependances():
             f.write('1')
         script_dir = os.path.dirname(os.path.abspath(__file__))
         requirements_path = os.path.join(script_dir, 'requirements.txt')
+        # Création automatique du requirements.txt si absent ou incomplet
+        requirements_content = """Pillow>=10.0.0
+requests>=2.31.0
+keyboard>=0.13.5
+customtkinter
+"""
+        if (not os.path.exists(requirements_path)) or (os.path.getsize(requirements_path) < 10):
+            with open(requirements_path, 'w', encoding='utf-8') as reqf:
+                reqf.write(requirements_content)
         try:
-            if os.path.exists(requirements_path):
-                result = subprocess.run([sys.executable, "-m", "pip", "install", "-r", requirements_path], capture_output=True, text=True)
-            else:
-                packages = ['Pillow>=10.0.0', 'requests>=2.31.0', 'keyboard>=0.13.5', 'customtkinter']
-                result = subprocess.run([sys.executable, "-m", "pip", "install"] + packages, capture_output=True, text=True)
+            result = subprocess.run([sys.executable, "-m", "pip", "install", "-r", requirements_path], capture_output=True, text=True)
             if result.returncode == 0:
                 pass
-            else:# jai pris du temps a fair donc copiez pas svp juste utiliser le tool cest tout pls 🤕
+            else:
                 if result.stderr:
                     pass
                 if os.path.exists('.deps_installing'):
